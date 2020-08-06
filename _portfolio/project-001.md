@@ -1,6 +1,6 @@
 ---
-title: "Experiments with the Soft Cell Simulator"
-excerpt: "Investigated the design of mechanical structures using soft materials <br/><img src='/images/projectImages/tactilearray.png'>"
+title: "Cost-efficient Tactile Skin based on Conductive Polymers "
+excerpt: "A tactile skin based on conductive polymers made from carbon black and silicone rubber <br/><img src='/images/projectImages/tactilearray.png'>"
 collection: portfolio
 ---
 
