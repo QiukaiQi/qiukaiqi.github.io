@@ -1,6 +1,6 @@
 ---
 title: "WrinTac based on Stretching Actuation"
-excerpt: "A cable driven manipulator with multiple degrees of freedom <br/><img src='/images/projectImages/wrintacstretching.png'>"
+excerpt: "A soft tactile sensor inspired by the water-induced wrinkles on human fingertips <br/><img src='/images/projectImages/wrintacstretching.png'>"
 collection: portfolio
 ---
 
