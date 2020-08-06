@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Krishna Manaswi Digumarti"
+title                    : "Qiukai Qi's Homepage"
 title_separator          : "-"
-name                     : &name "Krishna Manaswi Digumarti"
-description              : &description "Research Associate at the Bristol Robotics Laboratory"
-url                      : https://KrishnaManaswiD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Qiukai Qi"
+description              : &description "JSPS Research Fellow / PhD Student"
+url                      : https://qiukaiqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KrishnaManaswiD.github.io"
+repository               : "qiukaiqi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,27 +77,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Krisha Manaswi Digumarti"
+  name             : "Qiukai Qi"
   avatar           : "profile.png"
-  bio              : "Research Associate in SoftLab"
-  location         : "Bristol Robotics Lab, UK"
+  bio              : "JSPS Research Fellow / PhD Student"
+  location         : "JAIST, Nomi, Ishikawa, JP"
   employer         : 
-  googlescholar    : "https://scholar.google.co.uk/citations?user=ubuy4zYAAAAJ"
-  email            : "km.digumarti@bristol.ac.uk, dkrishnamanaswi@gmail.com"
+  googlescholar    : # "https://scholar.google.co.uk/citations?user=ubuy4zYAAAAJ"
+  email            : "dr.qiukai.qi@gmail.com, qi.qiukai@jaist.ac.jp"
   uri              : 
-  bitbucket        : "KrishnaManaswiD"
+  bitbucket        : # "KrishnaManaswiD"
   codepen          :
   dribbble         :
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "KrishnaManaswiD"
+  github           : "Qiukai Qi"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "kmdigumarti"
-  orcid            : "https://orcid.org/0000-0003-0521-3200"
+  linkedin         : #"kmdigumarti"
+  orcid            : "https://orcid.org/0000-0001-8720-6391"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
