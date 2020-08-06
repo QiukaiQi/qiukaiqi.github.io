@@ -1,8 +1,17 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "Hi!"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a research associate at the [SoftLab](http://www.bristol.ac.uk/engineering/research/softlab/), part of the [Bristol Robotics Lab](http://brl.ac.uk). I work with [Prof. Jonathan Rossiter](http://www.bris.ac.uk/engineering/people/person/jonathan-m-rossiter/overview.html).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My research sits at the interface between biology and engineering. Its underlying theme has been to discern biological design through the modelling of natural systems and adapt it to robotic applications. 
+
+A copy of my doctoral thesis can be accessed [here](https://research-information.bris.ac.uk/files/206707844/Final_Copy_2019_06_25_Digumarti_PhD_Redacted.pdf). It was supervised by Jonathan Rossiter and [Andrew Conn](http://www.bris.ac.uk/engineering/people/andrew-t-conn/index.html).
+
+Check out some of my projects and go through my publications for a sample of my research.
