@@ -13,9 +13,11 @@ Download a pdf version here (not yet available).
 
 Education
 ======
-* PhD Student in Soft Robotics, Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (JP)
+* PhD Student in Soft Robotics, Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (Japan)
+* Visiting PhD Student, Bristol Robotics Laboratory, University of Bristol (UK)
+* Visiting PhD Student, Delft Haptics Laboratory, Delft University of Technology (Netherlands)
 * Master of Science in Robotcs, Haptic Mechatronics and Medical Robotics Laboratory, King's College London (UK)
-* Bachelor of Engineering in Material Deforming and Control Engineering, Yanshan University (PRC)
+* Bachelor of Engineering in Material Deforming and Control Engineering, Yanshan University (China)
 
 Work experience
 ======
