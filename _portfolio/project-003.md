@@ -1,5 +1,5 @@
 ---
-title: "Mechanical Design of a Gripper with Soft Skin"
+title: "WrinTac based on Bending Actuation"
 excerpt: "For automated testing of soft skins in control tasks<br/><img src='/images/projectImages/wrintacbending.png'>"
 collection: portfolio
 ---

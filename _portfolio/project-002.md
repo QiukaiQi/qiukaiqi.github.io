@@ -1,5 +1,5 @@
 ---
-title: "Hyper-Redundant Manipulator"
+title: "WrinTac based on Stretching Actuation"
 excerpt: "A cable driven manipulator with multiple degrees of freedom <br/><img src='/images/projectImages/wrintacstretching.png'>"
 collection: portfolio
 ---
