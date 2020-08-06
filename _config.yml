@@ -1,0 +1,74 @@
+# # # # # # # # # # # # # # # # # #
+#   Mechanical Intelligence Lab   #
+# # # # # # # # # # # # # # # # # #
+
+# Basic
+name:               "Surface Haptics Lab"
+title:              "Michael Wiertlewski"
+description: >- # this means to ignore newlines until "baseurl:"
+  Everyone of use constantly touch a multitude of surfaces around us.
+  Some surfaces are cold and flat, others might be rough and spherical. In any case
+  the perception of their qualities and properties via our sense of touch is paramount for understanding and acting
+  on the world around us.
+  Our lab investigates the mechanics that underpins tactile perception. It uses tools
+  and model of contact mechanics, psychophysical experiementation, as well as unique
+  haptic interfaces to shine a light on the mechanisms associated with the perception
+  of our world.
+
+# URL
+url:                https://mwiertlewski.github.io
+baseurl:
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "research"
+    href:           "/research"
+  - name:           "publications"
+    href:           "/publications"
+  - name:           "people"
+    href:           "/people"
+#  - name:           "blog"
+#    href:           "/blog"
+  - name:           "opportunities"
+    href:           "/opportunities"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
