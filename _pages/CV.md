@@ -13,9 +13,9 @@ Download a pdf version here (not yet available).
 
 Education
 ======
-* Ph.D in Robotics and Autonomous Systems, Bristol Robotics Laboratory, 2019
-* Master of Science in Robotcs, Systems and Control, ETH Zürich (jointly with Disney Research Zürich), 2014
-* Bachelor of Technology with Honors in Mechanical Engineering, Indian Institute of Technology Hyderabad, 2012
+* PhD Student in Soft Robotics, Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (JP)
+* Master of Science in Robotcs, Haptic Mechatronics and Medical Robotics Laboratory, King's College London (UK)
+* Bachelor of Engineering in Material Deforming and Control Engineering, Yanshan University (PRC)
 
 Work experience
 ======
