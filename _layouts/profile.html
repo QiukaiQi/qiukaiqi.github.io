@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="container" style="max-width: 900px;">
+  <div class="row">
+    <div class="col-sm-6 my-auto">
+      <h3 class="page-title">{{ page.name }}</h3>
+      <img style="  border-radius: 50%;" width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+    </div>
+    <div class="col-sm-6 my-auto">
+      <h3 class="page-title">Contact</h3>
+      <p style="margin-bottom: 2em;"></p>
+      <p>
+        {% if page.email %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{page.email}}">{{page.email}}</a><br> {% endif %}
+        {% if page.linkedin %}<i class="fa fa-linkedin-square"></i> <a href="{{page.linkedin}}">Linkedin</a><br>{% endif %}
+        {% if page.gscholar %}<i class="ai ai-google-scholar-square"></i> <a href="{{page.gscholar}}">Google Scholar</a> <br>{% endif %}
+        {% if page.researchgate %}<i class="ai ai-researchgate-square"></i> <a href="{{page.researchgate}}">ResearchGate</a> <br>{% endif %}
+        {% if page.cv %}<i class="fa fa-graduation-cap"></i> <a href="{{site.baseurl}}/pdf/cv/{{page.cv}}">CV</a> <br>{% endif %}
+      </p>
+      <p> {% for addressline in page.address %}
+            {% if forloop.first %}
+              <i class="fa fa-building"></i> {{addressline}}<br>
+            {% else %}
+              <i class="fa fa-building" style="color: white"></i> {{addressline}}<br>
+            {% endif %}
+          {% endfor %}
+      </p>
+
+      </div>
+    </div>
+
+  <hr>
+  {{ content }}
+</div>

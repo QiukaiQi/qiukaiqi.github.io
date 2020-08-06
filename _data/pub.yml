@@ -1,0 +1,242 @@
+- title: Curvature sensing with a spherical tactile sensor using the color-interference of a marker array
+  authors: X. Lin, L. Willemet, A. Bailleul, M. Wiertlewski
+  journal: "In proc. ICRA 2020"
+  year: 2020
+  pdf: pdf/pub/2020-XL-AB-MW.pdf
+  image: images/pub/TactileSensorICRA.png
+
+- title: Detection of friction-modulated textures is limited by vibrotactile sensitivity
+  authors: C. Bernard, S. Ystad, J. Monnoyer, M. Wiertlewski
+  journal: IEEE Transactions on Haptics
+  year: 2020
+  pages: 1 - 1
+  urlpaper: https://ieeexplore.ieee.org/document/9057394/
+  image: images/pub/SetupCorentin.jpg
+  pdf: pdf/pub/2020-CB-SY-JM-MW.pdf
+
+- title: Sensing the Frictional State of a Robotic Skin via Subtractive Color Mixing
+  authors: X. Lin, M. Wiertlewski
+  journal: IEEE Robotics and Automation Letters
+  pages: "4(3):2386 - 2392"
+  year: 2019
+  urlpaper: https://ieeexplore.ieee.org/document/8613793/
+  pdf: pdf/pub/2019-XL-MW-RAL.pdf
+  note: Best paper award at ICRA's workshop on Soft Haptics
+  image: images/pub/TactileSensorXi.jpg
+
+- title: "Mind the spatiotemporal gap: Skin viscoelasticity limits our perception of discontinuous motion"
+  authors: L. Willemet, B. Cochelin and M. Wiertlewski
+  journal: "Work in progress Worldhaptics 2019"
+  year: 2019
+  pdf: pdf/pub/2019-LW-BC-MW-WIP.pdf
+  image: images/pub/2019-LW-WIP.png
+
+- title: "Interferometric tribometer for high-range/high-bandwidth measurement of tactile force interaction"
+  authors: C. Bernard, J. Monnoyer, S. Ystad, M. Wiertlewski
+  journal: "Work in progress Worldhaptics 2019"
+  year: 2019
+  pdf: pdf/pub/2019-CB-JM-SY-MW-WHC-WIP.pdf
+  image: images/pub/2019-CB-WIP.jpg
+
+
+
+- title: Contact geometry and mechanics predict friction forces during tactile surface exploration
+  authors: M. Janko, M. Wiertlewski, Y. Visell
+  journal: Scientific Reports
+  pages: "8.1: 4868"
+  year: 2018
+  urlpaper: https://www.nature.com/articles/s41598-018-23150-7
+
+- title: Overcoming fingertip friction variability with surface haptics force-feedback
+  authors: N. Huloux, J. Monnoyer, M. Boyron, M. Wiertlewski
+  journal: "In proc. of Eurohaptics 2018"
+  pages: "326–337"
+  year: 2018
+  urlpaper: https://link.springer.com/chapter/10.1007/978-3-319-93399-3_29
+  pdf: pdf/pub/2018-NH-JM-MB-MW-18.pdf
+  note: Best Student Paper Award
+
+- title: "Harmonious textures: The perceptual dimensions of synthetic sinusoidal gratings"
+  authors: C. Bernard, J. Monnoyer, M. Wiertlewski
+  journal: "In proc. of Eurohaptics 2018"
+  pages: "685–695"
+  year: 2018
+  urlpaper: https://link.springer.com/chapter/10.1007/978-3-319-93399-3_29
+  pdf: pdf/pub/2018-CB-JM-MW.pdf
+  note: Nominated for Best Student Paper Award
+
+- title: Perception of ultrasonic switches involves large discontinuity of the mechanical impedance
+  authors: J. Monnoyer, E. Diaz, C. Bourdin, M. Wiertlewski
+  journal: IEEE Transactions on Haptics
+  pages: "11(4): 579-589"
+  year: 2018
+  urlpaper: https://ieeexplore.ieee.org/document/8372247
+  pdf: pdf/pub/2018-JM-ED-CB-MW-ToH.pdf
+  note: ToH Best Paper Award
+
+- title: The Contribution of Air to Ultrasonic Friction Reduction
+  authors: R. Fenton Friesen, M. Wiertlewski, M. A. Peshkin and J.E. Colgate
+  journal: In proc. of Worldhaptics Conference 2017
+  pages: "517-522"
+  year: 2017
+  urlpaper: https://ieeexplore.ieee.org/document/7989955/
+  pdf: pdf/pub/2017-RFF-MW-MP-EC-WHC.pdf
+
+- title: Optimal Skin Impedance Promotes Perception of Ultrasonic Switches
+  authors: J. Monnoyer, E. Diaz, C. Bourdin, M. Wiertlewski
+  journal: In proc. of Worldhaptics Conference 2017
+  pages: "130-135"
+  year: 2017
+  urlpaper: https://ieeexplore.ieee.org/document/7989889/
+  pdf: pdf/pub/2017-JM-ED-CB-MW-WHC.pdf
+
+- title: Partial squeeze film levitation modulates fingertip friction
+  authors: M. Wiertlewski, R. Fenton Friesen and J.E. Colgate
+  journal: "Proceedings of the National Academy of Sciences"
+  pages: "vol. 113 no. 33, 9210-9215"
+  year: 2016
+  urlpaper: https://www.pnas.org/content/113/33/9210.short
+  pdf: pdf/pub/2016-mw-rff-ec.pdf
+
+- title: The Role of Damping in Ultrasonic Friction Reduction
+  authors: R. Fenton Friesen, M. Wiertlewski and J.E. Colgate
+  journal: "In proc. of Haptics Symposium, 2016"
+  pages: "67–172"
+  year: 2016
+  urlpaper: https://ieeexplore.ieee.org/document/7463172/
+  pdf: pdf/pub/2016-RF-MW-EC.pdf
+
+- title: "Ultrasonic Friction Modulation While Pressing Induces a Tactile Feedback"
+  authors: J. Monnoyer, E. Diaz, C. Bourdin, M. Wiertlewski
+  journal: "In proc. of Eurohaptics 2016"
+  pages: "171–179"
+  year: 2016
+  urlpaper: https://link.springer.com/chapter/10.1007/978-3-319-42321-0_16
+  pdf: pdf/pub/2016-JM-ED-CB-MW.pdf
+  note: Best Student Paper Award
+
+- title: "Haptic feedback: from force-reflecting robots to tactile interfaces"
+  authors: M. Wiertlewski
+  journal: "In proc. of Actuator 2016"
+  pages: "502-506"
+  year: 2016
+  pdf: pdf/pub/2016-MW-actuator.pdf
+  note: keynote paper
+
+- title: Power optimization of ultrasonic friction-modulation tactile interfaces
+  authors: M. Wiertlewski and J.E. Colgate
+  journal: "IEEE Transactions on Haptics"
+  pages: "8(1):43–53"
+  year: 2015
+  urlpaper: https://ieeexplore.ieee.org/document/6919307
+  pdf: pdf/pub/2015-mw-ec.pdf
+
+- title: Bioinspired Artificial Fingertips that Exhibit Friction Reduction when Subjected to Transverse Ultrasonic Vibrations
+  authors: R. Fenton Friesen, M. Wiertlewski, M. A. Peshkin and J.E. Colgate
+  journal: "In proc. of Worldhaptics 2015"
+  pages: "208-213"
+  year: 2015
+  urlpaper: https://ieeexplore.ieee.org/document/7177715
+  pdf: pdf/pub/2015-rff-mw-mp-ec.pdf
+  note: Best Presentation Award and Nominated for Best Paper
+
+- title: A High-Fidelity Surface-Haptic Device for Texture Rendering on Bare Finger
+  authors: M. Wiertlewski, D. Leonardis, D.J. Meyer, M. Peshkin, J.E. Colgate
+  journal: "In proc. of Eurohaptics 2014"
+  pages: "241-248"
+  year: 2014
+  urlpaper: https://link.springer.com/chapter/10.1007/978-3-662-44196-1_30
+  pdf: pdf/pub/2014-MW-DL-DM-MP-EC.pdf
+
+- title: Dynamics of Ultrasonic and Electrostatic Friction Modulation for Rendering Texture on Haptic Surfaces
+  authors: D.J. Meyer, M. Wiertlewski, M. Peshkin, J.E. Colgate
+  journal: "In proc. of Haptics Symposium, 2014"
+  pages: "63-67"
+  year: 2014
+  urlpaper: https://ieeexplore.ieee.org/document/6775434
+  pdf: pdf/pub/2014-DM-MW-MP-EC.pdf
+
+- title: Physical factors influencing pleasant touch during tactile exploration
+  authors: A. Klöcker, M. Wiertlewski, V. Theate, V. Hayward, J-L Thonnard
+  journal: "PloS One"
+  pages: "8(11), e79085. 2"
+  year: 2013
+  urlpaper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079085
+  pdf: pdf/pub/2013-ak-mw-vt-vh-jlt.pdf
+
+
+- title: "ViPong: Probabilistic Haptic Feed- back for Eyes-Free Interaction"
+  authors: S. Strachan, M. Wiertlewski, H. Zophoniasson, M. Anastassova
+  journal: "In proc. of IEEE, Worldhaptics 2013"
+  pages: "193-198"
+  year: 2013
+  urlpaper: https://ieeexplore.ieee.org/document/6548407/
+  pdf: pdf/pub/2013-SS-MW-HZ-MA-WHC.pdf
+
+
+- title: Anticipatory Vibrotactile Cueing Facilitates Grip Force Adjustment
+  authors: S. Okamoto, M. Wiertlewski, V. Hayward
+  journal: "In proc. of IEEE, Worldhaptics 2013"
+  pages: "525-530"
+  year: 2013
+  urlpaper: https://ieeexplore.ieee.org/document/6548481/
+  pdf: pdf/pub/2013-SO-MW-VH.pdf
+
+- title: "Slip-Induced Vibration Influences the Grip Reflex: A Pilot Study"
+  authors: M. Wiertlewski, S. Endo, A. Wing, V. Hayward
+  journal: "In proc. of IEEE, Worldhaptics 2013"
+  pages: "627-632"
+  year: 2013
+  urlpaper: https://ieeexplore.ieee.org/document/6548481/
+  pdf: pdf/pub/2013-MW-SE-AW-VH-WHC.pdf
+
+- title:  Transducer For Mechanical Impedance Testing over a Wide Frequency Range
+  authors: M. Wiertlewski, V. Hayward
+  journal: "Review of Scientific Instruments"
+  pages: "83(2):025001"
+  year: 2012
+  urlpaper: https://aip.scitation.org/doi/10.1063/1.3683572
+  pdf: pdf/pub/2012-MW-VH-RSI.pdf
+
+- title: Tradeoffs In The Application of Time-Reversed Acoustics to Tactile Stimulation
+  authors: C. Hudin, J. Lozada, M. Wiertlewski, V. Hayward
+  journal: "LNCS 7283, Part I, pp. 218-226"
+  pages: "241-248"
+  year: 2012
+  urlpaper: https://link.springer.com/chapter/10.1007/978-3-642-31401-8_20
+  pdf: pdf/pub/2012-CH-JL-MW-VH-EH.pdf
+  note: Best Paper Honorable Mention
+
+- title: The Spatial Spectrum of Tangential Skin Displacement Can Encode Tactual Texture
+  authors: M. Wiertlewski, J. Lozada, and V. Hayward
+  journal: "IEEE Transactions on Robotics"
+  pages: "27(3):461–472"
+  year: 2011
+  urlpaper: https://ieeexplore.ieee.org/document/5764856/
+  pdf: pdf/pub/2011-mw-jl-vh.pdf
+
+- title: On the 1/f Noise and Non-Integer Harmonic Decay of the Interaction of a Finger Sliding on Flat and Sinusoidal Surfaces
+  authors: M. Wiertlewski, C. Hudin, V. Hayward
+  journal: "In proc. of IEEE World Haptics 2011"
+  pages: "25-30"
+  year: 2011
+  urlpaper: https://ieeexplore.ieee.org/document/5945456
+  pdf: pdf/pub/2011-mw-ch-vh-WHC.pdf
+  note: Nominated for Best paper and Best student paper
+
+- title: Causality Inversion in the Reproduction of Roughness
+  authors: M. Wiertlewski, J. Lozada, E. Pissaloux, and V. Hayward
+  journal: "In proc. of Europhaptics 2010"
+  pages: "LNSC 6192 17–24"
+  year: 2010
+  urlpaper: https://ieeexplore.ieee.org/document/5945456
+  pdf: pdf/pub/2010-MW-JL-EP-VH-EH.pdf
+  note: Best paper award
+
+- title: Tactile Interface for Stimulation of Fingertip via Lateral Traction
+  authors: M. Wiertlewski, J. Lozada, E. Pissaloux, and V. Hayward
+  journal: "In proc. of Actuators 2010"
+  pages: "520–523"
+  year: 2010
+  urlpaper: https://ieeexplore.ieee.org/document/5945456
+  pdf: pdf/pub/2010-MW-JL-EP-VH-actuator.pdf

@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="container content post" style="max-width: 900px;">
+  <h3 class="page-title"><strong>{{ page.title }}</strong><br/></h3>
+  <!--- <small>posted on {{ page.date | date: '%B %-d, %Y'}}</small> --->
+  <hr>
+  <div class="col-md-12">
+  <img src="{{site.baseurl}}/images/post/{{page.image}}" class="pull-left" style="width: 300px; margin-right: 2em">
+  <p>{{ content }}</p>
+  </div>
+</div>
