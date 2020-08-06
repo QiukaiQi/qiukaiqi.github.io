@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a research associate at the [SoftLab](http://www.bristol.ac.uk/engineering/research/softlab/), part of the [Bristol Robotics Lab](http://brl.ac.uk). I work with [Prof. Jonathan Rossiter](http://www.bris.ac.uk/engineering/people/person/jonathan-m-rossiter/overview.html).
+I am a PhD student at the [Soft Haptics Laboratory](http://www.jaist.ac.jp/ms/labs/vanho/index-e.html). I work with [Prof. Van Anh Ho](https://fp.jaist.ac.jp/public/Default2.aspx?id=669&l=1).
 
-My research sits at the interface between biology and engineering. Its underlying theme has been to discern biological design through the modelling of natural systems and adapt it to robotic applications. 
-
-A copy of my doctoral thesis can be accessed [here](https://research-information.bris.ac.uk/files/206707844/Final_Copy_2019_06_25_Digumarti_PhD_Redacted.pdf). It was supervised by Jonathan Rossiter and [Andrew Conn](http://www.bris.ac.uk/engineering/people/andrew-t-conn/index.html).
+My research sits at the interface between biology and engineering. I take inspirations from biology and develop *Soft Robots* augmented with life-like intelligence and functionality such as active sensing, purposive morphing etc.. I look at novel mechanisms, smart materials and structures for possible application to soft sensors and actuators.
 
 Check out some of my projects and go through my publications for a sample of my research.
