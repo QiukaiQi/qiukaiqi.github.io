@@ -3,7 +3,7 @@ title: "Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending 
 collection: publications
 permalink: /publications/qi2020wrintacbending
 excerpt: ''
-venue: "IEEE Robotics and Automation Letters, presented at RoboSoft 2020"
+venue: "IEEE Robotics and Automation Letters, also presented at RoboSoft 2020"
 paperurl: 'https://ieeexplore.ieee.org/document/9044791'
 date: 2020-03-23
 paperurl: 

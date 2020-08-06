@@ -3,7 +3,7 @@ title: "Wrinkled Soft Sensor with Variable Afferent Morphology"
 collection: publications
 permalink: /publications/qi2019wrintacstretching
 excerpt: ''
-venue: "IEEE Robotics and Automation Letters, presented at ICRA 2019"
+venue: "IEEE Robotics and Automation Letters, also presented at ICRA 2019"
 paperurl: 'https://ieeexplore.ieee.org/document/8638951'
 date: 2019-02-11
 paperurl: 
