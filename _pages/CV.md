@@ -21,44 +21,23 @@ Education
 
 Work experience
 ======
-* Research Associate
-  * Fabrication of gel based robots
-  * Duration: April 2019 - Mar 2020
+* Doctoral Research Fellow (JSPS)
+  * Topic: Morphological computation in tactile sensing and perception
+  * Supervisors: Prof. Van Anh Ho and Dr. Shogo Okada
+  * Duration: Apr 2020 - Present
 
-* Research Associate in Soft Robotics
-  * Implantable soft robotic devices to treat vocal fold paralysis
-  * Studied anatomy of vocal folds. Designed a simulator and an implant to treat paralysis.
-  * Supervisors: Prof. Jonathan Rossiter and Dr. Andrew Conn
-  * Duration: Nov 2016 - May 2017 
+* Doctoral Research Fellow (JAIST)
+  * Topic: Morphological computation in tactile sensing and perception
+  * Supervisors: Prof. Van Anh Ho and Dr. Shogo Okada
+  * Duration: Apr 2018 - Mar 2020
 
-* Research Assistant - Elizabeth Blackwell Institute
-  * Cilia-Inspired microfluidic manipulators for lab-on-a-chip diagnostic devices
-  * Worked on testing an ionic polymer metal composite device.
-  * Supervisor: Dr. Andrew Conn
-  * Duration: Aug - Sep, 2016
+* Control Engineer / Project Manager (Abu Dhabi Branch, Commissioning and Operation Company of CPP)
+  * Responsibility: Commissioning and operation of instrumental control system in oil and gas plant
+  * Duration: Sep, 2012 - Apr, 2016
 
-* Visiting Researcher
-  * Laboratory of Intelligent Systems, EPFL
-  * Worked on a simulator for soft cells. Looked at evolutionary algorithms to generate functional structures.
-  * Supervisor: Prof. Dario Floreano
-  * Duration: May - Dec, 2014
-
-* Intern - Disney Research Zürich
-  * Design and control of friendly robots with personality
-  * Worked on a quadruped capable of displaying personalities with the goal of creating friendly robots for children.
-  * Supervisor: Prof. Stelian Coros
-  * Duration: Jun - Sep, 2013
-
-* Semester Project
-  * Ajile and Dexterous Robotics Lab, ETH Zurich
-  * Mechanical Design of a Robot gripper with Soft Skin for Control Tasks
-  * Supervisor: Dr. Jonas Buchli
-
-* Intern
-  * Electroincs and Radar Development Establishment (LRDE), DRDO Bengaluru
-  * Worked on a Kalman filter based tracker to be used on an airborne early warning system.
-  * Supervisor: Dr. Duvvuri Seshagiri
-  * Duration: May - Jul, 2011
+* Quality Control Technician (CFHI Tianjin Heavy Industry CO., Ltd)
+  * Responsibility: Quality control and monitoring in machinery workshop
+  * Duration: Aug, 2011 - Aug, 2012
 
 Publications
 ======
