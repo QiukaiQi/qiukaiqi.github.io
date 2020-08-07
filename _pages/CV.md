@@ -77,10 +77,10 @@ Skills
 
 Supervisions
 ======
-* "Firmware Development of a Data Acquisition Device for USB Connection and Data Transmission"
+* Project: Firmware Development of a Data Acquisition Device for USB Connection and Data Transmission
   * Zhengsheng Li, Master Intern. from National Yunlin University of Science and Technology
 
-* "Shape Classification using Deep Learning with a Wrinkled Tactile Sensor"
+* Project: Shape Classification using Deep Learning with a Wrinkled Tactile Sensor
   * Weiting Li, Master Intern. from National Yunlin University of Science and Technology
 
 Reviews
