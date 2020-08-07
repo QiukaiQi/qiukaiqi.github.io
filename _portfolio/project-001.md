@@ -1,5 +1,5 @@
 ---
-title: "Cost-efficient Tactile Skin based on Conductive Polymers "
+title: "Cost-effective Tactile Skin based on Conductive Polymers "
 excerpt: "A tactile skin based on conductive polymers made from carbon black and silicone rubber <br/><img src='/images/projectImages/mastercover.png'>"
 collection: portfolio
 ---
