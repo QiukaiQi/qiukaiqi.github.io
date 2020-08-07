@@ -4,6 +4,8 @@ excerpt: "A soft tactile sensor with morphing ability enabled by bending actuati
 collection: portfolio
 ---
 
-In this project with Dr. Jonas Buchli from the Ajile and Dexterous Robotics Lab, ETH and Prof. Stelian Coros, I designed a gripper to be used in the sutomated testing of soft skins. The idea was to drop a ball from a known height and let the gripper grasp it as it falls. The arms of the gripper were manufactured from soft material and the goal was to test how different materials performed.
+This is an extension work based on WrinTac previously proposed in [here](https://ieeexplore.ieee.org/document/8638951). We further modified WrinTac to suit for robotic finger application, and tested the possibility of WrinTac to perform active sensing and perception by morphological adaptation instead of by control variation. Here, the morphing behavior of WrinTac was powered by bending actuation which much more suitful to robotic fingers.
+
+This work is now published in Robotics and Automation Letters, and was presented at International Conference on Soft Robotics (RoboSoft) 2020 and was selected as [Best Paper Finalist](http://www.robosoft2020.org/). Access the paper at [IEEE Xplore](https://ieeexplore.ieee.org/document/9044791)
 
 <br/><img src='/images/projectImages/wrintacbendingcontent.png'>
