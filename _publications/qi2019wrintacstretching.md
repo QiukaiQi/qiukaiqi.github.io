@@ -7,7 +7,7 @@ venue: "IEEE Robotics and Automation Letters, also presented at ICRA"
 paperurl: 'https://ieeexplore.ieee.org/document/8638951'
 date: 2019-02-11
 paperurl: 
-citation: 'Q. Qi, S. Hirai and V. Ho, Wrinkled Soft Sensor with Variable Afferent Morphology.” IEEE Robot. Autom. Lett., vol. 4, no. 2, pp. 1908-1915, Apr. 2019.'
+citation: 'Q. Qi, S. Hirai and V. Ho, Wrinkled Soft Sensor with Variable Afferent Morphology. IEEE Robot. Autom. Lett., vol. 4, no. 2, pp. 1908-1915, Apr. 2019.'
 ---
 
 ## Abstract

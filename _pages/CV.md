@@ -33,11 +33,11 @@ Work experience
   * Duration: Apr 2018 - Mar 2020
 
 * Control Engineer / Project Manager (Abu Dhabi Branch, Commissioning and Operation Company of CPP)
-  * Responsibility: Commissioning and operation of instrumental control system in oil and gas plant
+  * Responsibility: Commissioning and operation of instrument control system in oil and gas plant
   * Duration: Sep, 2012 - Apr, 2016
 
-* Quality Control Technician (CFHI Tianjin Heavy Industry CO., Ltd)
-  * Responsibility: Quality control and monitoring in machinery workshop
+* Technician (CFHI Tianjin Heavy Industry CO., Ltd)
+  * Responsibility: Machining, wielding, quality control
   * Duration: Aug, 2011 - Aug, 2012
 
 Publications
