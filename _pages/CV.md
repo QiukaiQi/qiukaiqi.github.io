@@ -22,12 +22,12 @@ Education
 
 Funding
 ======
-* JSPS Grants-in-Aid (No. 20J15087)
+* JSPS Grants-in-Aid (No. 20J15087) (Ongoing)
   * Amount: 1,700,000 JPY
   * Position: PI
   * Topic: Development of active tactile sensors with wrinkle morphology and the application to soft robots
   * Duration: Apr 2020 - Present
-* JAIST Houga Research Grant 2020
+* JAIST Houga Research Grant 2020 (Ongoing)
   * Amount: 900,000 JPY
   * Position: PI
   * Topic: Morphological investigation of a soft robotic fingertip for enhanced tactile perception
