@@ -30,7 +30,7 @@ Funding
 * JAIST Houga Research Grant 2020
   * Amount: 900,000 JPY
   * Position: PI
-  * Topic: Morphological investigation of a soft roboticfingertip for enhanced tactile perception
+  * Topic: Morphological investigation of a soft robotic fingertip for enhanced tactile perception
   * Duration: Jul 2020 - Present
 
 Work experience
