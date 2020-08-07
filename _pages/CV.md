@@ -10,8 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download a pdf version here (not yet available).
-
 Education
 ======
 * PhD Student in Robotics, Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (Japan) 2021
@@ -27,6 +25,7 @@ Funding
   * Position: PI
   * Topic: Development of active tactile sensors with wrinkle morphology and the application to soft robots
   * Duration: Apr 2020 - Present
+
 * JAIST Houga Research Grant 2020 (Ongoing)
   * Amount: 900,000 JPY
   * Position: PI
@@ -63,16 +62,6 @@ Publications
   * **Q. Qi**, S. Hirai and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology." *IEEE International Conference on Robotics and Automation (ICRA 2019)*, May 20-24, Montreal, Canada.
   * **Q. Qi** and V. Ho, "Variable Afferent Network Morphology (VANmorph): An Implementation on Sensorized Soft Body." *IEEE International Conference on Intelligent Robots and Systems (IROS 2018)*, Oct 1-5, Madrid, Spain.
 
-Awards and Achievements
-======
-* Recipient of the ETH Scholarship for Master’s students, 2013
-* Recipient of the University of Tokyo IIT Undergraduate Student Scholarship Program (TODAI – Mori Seiki Scholarship) twice (2010, 2011)
-* Participated in the Japan-East Asia Network of Exchange for Students and Youths Programme June 9th – 18th, 2010
-* Awarded the University of Bristol Alumni Foundation Travel Grant, 2019
-* Cleared the 'Ideas' round of the University of Bristol's Basecamp New Enterprise Competition 2018-19
-* Won the second prize for presenting a Numerical Analysis of Heat Transfer in the Foot During the Act of Firewalking at Techkriti 2011 in IIT Kanpur
-* Won the second prize in a circuit design challenge at IIT Madras, 2009 for demonstrating a low-cost energy saving home automation circuit
-
 Skills
 ======
 * General operations in clean room
@@ -85,6 +74,25 @@ Skills
   * Japanese (N1)
   * French (beginner)
   * Mandarin (native)
+
+Supervisions
+======
+* "Firmware Development of a Data Acquisition Device for USB Connection and Data Transmission"
+  * Zhengsheng Li, Master Intern. from National Yunlin University of Science and Technology
+
+* "Shape Classification using Deep Learning with a Wrinkled Tactile Sensor"
+  * Weiting Li, Master Intern. from National Yunlin University of Science and Technology
+
+Reviews
+======
+* Journals
+  * IEEE Robotics and Automation Letters (RAL)
+  * Frontiers in Robotics and AI 
+
+* Conferences
+  * IEEE International Conference on Robotics and Automation (ICRA)
+  * IEEE International Conference on Intelligent Robots and Systems (IROS)
+  * IEEE International Conference on fort Robotics (RoboSoft)
 
 Hobbies
 ======
