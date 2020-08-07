@@ -1,6 +1,6 @@
 ---
 title: "WrinTac based on Bending Actuation"
-excerpt: "A soft tactile sensor with morphing ability enabled by bending actuation <br/><img src='/images/projectImages/wrintacbending.png'>"
+excerpt: "A soft tactile sensor with morphing ability enabled by bending actuation <br/><img src='/images/projectImages/wrintacbendingcover.png'>"
 collection: portfolio
 ---
 
