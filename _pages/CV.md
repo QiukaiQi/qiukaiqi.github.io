@@ -14,7 +14,7 @@ Download a pdf version here (not yet available).
 
 Education
 ======
-* PhD Student in Soft Robotics, Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (Japan) 2021
+* PhD Student in Robotics, Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (Japan) 2021
 * Visiting PhD Student, Bristol Robotics Laboratory, University of Bristol (UK) 2020
 * Visiting PhD Student, Delft Haptics Laboratory, Delft University of Technology (Netherlands) 2019
 * Master of Science in Robotcs, Haptic Mechatronics and Medical Robotics Laboratory, King's College London (UK) 2017
