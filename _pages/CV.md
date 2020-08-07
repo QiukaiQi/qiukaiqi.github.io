@@ -27,7 +27,7 @@ Work experience
   * Supervisors: Prof. Van Anh Ho and Dr. Shogo Okada
   * Duration: Apr 2020 - Present
 
-* Doctoral Research Fellow (JAIST)
+* Doctoral Research Fellow (JAIST) & Research Associate (Soft Haptics Lab.)
   * Topic: Morphological computation in tactile sensing and perception
   * Supervisors: Prof. Van Anh Ho and Dr. Shogo Okada
   * Duration: Apr 2018 - Mar 2020
@@ -42,10 +42,14 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Journals
+  * Q. Qi and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation." *IEEE Robot. Autom. Lett.*, vol. 5, no. 3, pp. 4102-4109, Jul. 2020.
+  * Q. Qi, S. Hirai and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology." *IEEE Robot. Autom. Lett.*, vol. 4, no. 2, pp. 1908-1915, Apr. 2019.
+* Conferences
+  * Q. Qi and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation." *IEEE International Conference on Soft Robotics (RoboSoft 2020)*, Online. (Best Paper Finalist)
+  * Q. Qi, S. Hirai and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology." *IEEE International Conference on Robotics and Automation (ICRA 2019)*, May 20-24, Montreal, Canada.
+  * Q. Qi and V. Ho, "Variable Afferent Network Morphology (VANmorph): An Implementation on Sensorized Soft Body." *IEEE International Conference on Intelligent Robots and Systems (IROS 2018)*, Oct 1-5, Madrid, Spain.
+
 Awards and Achievements
 ======
 * Recipient of the ETH Scholarship for Master’s students, 2013
