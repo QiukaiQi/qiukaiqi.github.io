@@ -20,6 +20,19 @@ Education
 * Master of Science in Robotcs, Haptic Mechatronics and Medical Robotics Laboratory, King's College London (UK) 2017
 * Bachelor of Engineering in Material Deforming and Control Engineering, Yanshan University (China) 2011
 
+Funding
+======
+* JSPS Grants-in-Aid (No. 20J15087)
+  * Amount: 1,700,000 JPY
+  * Position: PI
+  * Topic: Development of active tactile sensors with wrinkle morphology and the application to soft robots
+  * Duration: Apr 2020 - Present
+* JAIST Houga Research Grant 2020
+  * Amount: 900,000 JPY
+  * Position: PI
+  * Topic: Morphological investigation of a soft roboticfingertip for enhanced tactile perception
+  * Duration: Jul 2020 - Present
+
 Work experience
 ======
 * Doctoral Research Fellow (JSPS)
@@ -46,8 +59,8 @@ Publications
   * **Q. Qi** and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation." *IEEE Robot. Autom. Lett.*, vol. 5, no. 3, pp. 4102-4109, Mar. 2020.
   * **Q. Qi**, S. Hirai and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology." *IEEE Robot. Autom. Lett.*, vol. 4, no. 2, pp. 1908-1915, Feb. 2019.
 * Conferences
-  * **Q. Qi** and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation." *IEEE International Conference on Soft Robotics (RoboSoft 2020)*, Online. (Best Paper Finalist)
-  * **. Qi**, S. Hirai and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology." *IEEE International Conference on Robotics and Automation (ICRA 2019)*, May 20-24, Montreal, Canada.
+  * **Q. Qi** and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation." *IEEE International Conference on Soft Robotics (RoboSoft 2020)*, Online. (**Best Paper Finalist**)
+  * **Q. Qi**, S. Hirai and V. Ho, "Wrinkled Soft Sensor with Variable Afferent Morphology." *IEEE International Conference on Robotics and Automation (ICRA 2019)*, May 20-24, Montreal, Canada.
   * **Q. Qi** and V. Ho, "Variable Afferent Network Morphology (VANmorph): An Implementation on Sensorized Soft Body." *IEEE International Conference on Intelligent Robots and Systems (IROS 2018)*, Oct 1-5, Madrid, Spain.
 
 Awards and Achievements
