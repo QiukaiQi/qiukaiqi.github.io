@@ -56,21 +56,21 @@ Awards and Achievements
 * Won the second prize for presenting a Numerical Analysis of Heat Transfer in the Foot During the Act of Firewalking at Techkriti 2011 in IIT Kanpur
 * Won the second prize in a circuit design challenge at IIT Madras, 2009 for demonstrating a low-cost energy saving home automation circuit
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+# ======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
 
-Outreach and Voluntary Work
-======
-* STEM ambassador UK. Regularly participate in outreach activities of the Bristol Robotics Lab, interacting with children, teaching programming, talking science and demonstrating robots.
-* Participated in the Science in Schools outreach program organized by the British Council in France, November 2017. Part of a three-member team visiting schools in Nancy-Metz.
-* Research featured in episode, 50 Shapes of Goo, of BBC Click with a worldwide audience of 380 million households, 10th June 2017. Cover photo shows off one of my robots.
-* Member of the Bristol Robotics Lab delegation at the Robotics Conference, Science Museum, London, 4th July 2016. Demonstrated soft robots to officials of the government and journalists.
-* Presented my research from the Soft Robotics Lab to the EPSRC Council on their visit to the University of Bristol, July 2016.
-* Demonstrator for ROBOSOFT at the Gadget Show 2016, Birmingham. Engaged with members of the public on recent advancements in soft robotics. More than 6000 people visited our stand.
-* Spearheaded a fundraiser to provide infrastructure to a school as part of an initiative by the alumni of IITH. Provided drinking water, built a library, set up labs and started computer training.
+# Outreach and Voluntary Work
+# ======
+# * STEM ambassador UK. Regularly participate in outreach activities of the Bristol Robotics Lab, interacting with children, teaching programming, talking science and demonstrating robots.
+# * Participated in the Science in Schools outreach program organized by the British Council in France, November 2017. Part of a three-member team visiting schools in Nancy-Metz.
+# * Research featured in episode, 50 Shapes of Goo, of BBC Click with a worldwide audience of 380 million households, 10th June 2017. Cover photo shows off one of my robots.
+# * Member of the Bristol Robotics Lab delegation at the Robotics Conference, Science Museum, London, 4th July 2016. Demonstrated soft robots to officials of the government #and journalists.
+# * Presented my research from the Soft Robotics Lab to the EPSRC Council on their visit to the University of Bristol, July 2016.
+# * Demonstrator for ROBOSOFT at the Gadget Show 2016, Birmingham. Engaged with members of the public on recent advancements in soft robotics. More than 6000 people visited #our stand.
+# * Spearheaded a fundraiser to provide infrastructure to a school as part of an initiative by the alumni of IITH. Provided drinking water, built a library, set up labs and #started computer training.
 
 Skills
 ======
@@ -83,9 +83,9 @@ Skills
   * German (A1)
   * French, Sanskrit (beginner)
 
-Hobbies
-======
-* Hold a brown belt in Shotokan karate, won gold at the national level
-* Enjoy drawing and sculpting
-* Adept at table tennis. Played for the department's team
-* Avid video gamer
+# Hobbies
+# ======
+# * Hold a brown belt in Shotokan karate, won gold at the national level
+# * Enjoy drawing and sculpting
+# * Adept at table tennis. Played for the department's team
+# * Avid video gamer
