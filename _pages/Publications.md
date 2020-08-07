@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-excerpt: "I have listed here "
+excerpt: 
 permalink: /publications/
 author_profile: true
 ---
