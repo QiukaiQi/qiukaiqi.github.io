@@ -56,7 +56,7 @@ Awards and Achievements
 * Won the second prize for presenting a Numerical Analysis of Heat Transfer in the Foot During the Act of Firewalking at Techkriti 2011 in IIT Kanpur
 * Won the second prize in a circuit design challenge at IIT Madras, 2009 for demonstrating a low-cost energy saving home automation circuit
 
-#Teaching
+# Teaching
 # ======
 #  <ul>{% for post in site.teaching %}
 #    {% include archive-single-cv.html %}
@@ -74,14 +74,16 @@ Awards and Achievements
 
 Skills
 ======
-* Programming: C/C++, Python, MATLAB
-* Workshop skills: casting, fitting, welding, carpentry, working the lathe, 3D printing, laser cutting
-* Modelling and simulation: Siemens NX, SolidWorks, Autodesk Fusion (including scripting), ANSYS, Inkscape, Adobe Illustrator and Photoshop, Blender
-* Tools and technologies: Microcontroller programming, image processing, computer-based simulation, modelling, animation, web design, HPC (beginner)
+* General operations in clean room
+* Analysis and control: Python, MATLAB, C/C++, Arduino
+* Machine learning, deep learning and image processing: Pytorch, Scikit-learn, Tensorflow, Opencv
+* Modelling and simulation: Abaqus, COMSOL, ANASYS, Autodesk Inventor, Adams, Adobe Illustrator, Photoshop and Premiere
+* Workshop skills: machining, casting, fitting, welding, 3D printing, laser cutting
 * Languages:
-  * English, Telugu, Hindi (fluent)
-  * German (A1)
-  * French, Sanskrit (beginner)
+  * English (fluent)
+  * Japanese (N1)
+  * French (beginner)
+  * Mandarin (native)
 
 # Hobbies
 # ======
