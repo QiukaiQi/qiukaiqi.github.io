@@ -96,4 +96,4 @@ Reviews
 
 Hobbies
 ======
-* Fitness, Swimming, Running and Football
+* Fitness (over 10 years), Swimming, Running and Football
