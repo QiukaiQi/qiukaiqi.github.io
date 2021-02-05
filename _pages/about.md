@@ -14,4 +14,4 @@ My research sits at the interface between biology and engineering. I take inspir
 
 I have supervised two master interns with different topics, one on deep learning and the other on firmware development using C language. Refer to my [CV](https://qiukaiqi.github.io/cv/) for details.
 
-**News**
+News are here below.
