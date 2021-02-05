@@ -15,5 +15,7 @@ My research sits at the interface between biology and engineering. I take inspir
 I have supervised two master interns with different topics, one on deep learning and the other on firmware development using C language. Refer to my [CV](https://qiukaiqi.github.io/cv/) for details.
 
 **News**
+
 *2020-12-30:* I finished a three-day hands-on training on nano fabrication in JAIST clean room with higher standards of cleanness than NASA, fabricating a nano scale gas sensor by suspending graphene. Many thanks to Dr. Liu for the very detailed instructions on spinning coating, baking, electron beam lithography (EBL), processing, and electron beam deposition.
+
 *2020-12-25:* I have successfully defense my PhD dissertation. Ready to go to next stage of life!
