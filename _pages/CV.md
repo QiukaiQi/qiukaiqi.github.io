@@ -87,7 +87,10 @@ Reviews
 ======
 * Journals
   * IEEE Robotics and Automation Letters (RAL)
-  * Frontiers in Robotics and AI 
+  * IEEE Transaction on Haptics (ToH)
+  * IPO Bioinspiration & Biomimetics (BIBM)
+  * Frontiers in Robotics and AI
+  * Advanced Robotics
 
 * Conferences
   * IEEE International Conference on Robotics and Automation (ICRA)
@@ -96,4 +99,4 @@ Reviews
 
 Hobbies
 ======
-* Fitness (over 10 years), Swimming, Running and Football
+* Fitness (over 10 years), Swimming, Cycling and Football
