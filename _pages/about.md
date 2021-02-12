@@ -12,8 +12,6 @@ I am a PhD student at the [Soft Haptics Laboratory](http://www.jaist.ac.jp/ms/la
 
 My research sits at the interface between biology and engineering. I take inspirations from *Biology* and develop *Soft Robots* augmented with life-like intelligence and functionality such as active sensing, purposive morphing and autonomous grasping by exploring smart materials, structures and mechanisms. Check out some of my [Projects](https://qiukaiqi.github.io/portfolio/) and go through my [Publications](https://qiukaiqi.github.io/publications/) for a glimpse of my research.
 
-I have supervised two master interns with different topics, one on deep learning and the other on firmware development using C language. Refer to my [CV](https://qiukaiqi.github.io/cv/) for details.
-
 **News**
 
 **2021-Feb-10** I finished a full-day training on scanning electron microscope (SEM) (S-4500, Hitachi) in JAIST Center for Nano Materials and Technology. Many thanks to Mr. Notoya for the very detailed instructions.
