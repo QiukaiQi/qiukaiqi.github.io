@@ -14,6 +14,8 @@ My research sits at the interface between biology and engineering. I take inspir
 
 **News**
 
+**2021-Feb-10** I have a paper titled as "BPActuators: Lightweight and low-cost soft actuators by balloons and plastics" accepted by IEEE RoboSoft 2021.
+
 **2021-Feb-10** I finished a full-day training on scanning electron microscope (SEM) (S-4500, Hitachi) in JAIST Center for Nano Materials and Technology. Many thanks to Mr. Notoya for the very detailed instructions.
 
 **2021-Jan-30** I finished a three-day hands-on training on nano fabrication in JAIST clean room with higher standard of cleanness than NASA, fabricating a nano scale gas sensor by suspending graphene. Many thanks to Dr. Liu for the very detailed instructions on **spinning coating, baking, electron beam lithography, processing, and electron beam deposition**.
