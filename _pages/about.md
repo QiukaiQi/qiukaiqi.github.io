@@ -14,7 +14,7 @@ My research sits at the interface between biology and engineering. I take inspir
 
 **News**
 
-**2021-Feb-10** I have a paper titled as "BPActuators: Lightweight and low-cost soft actuators by balloons and plastics" accepted by IEEE RoboSoft 2021.
+**2021-Mar-01** We have a paper titled as "BPActuators: Lightweight and low-cost soft actuators by balloons and plastics" accepted by IEEE RoboSoft 2021.
 
 **2021-Feb-10** I finished a full-day training on scanning electron microscope (SEM) (S-4500, Hitachi) in JAIST Center for Nano Materials and Technology. Many thanks to Mr. Notoya for the very detailed instructions.
 
