@@ -1,6 +1,6 @@
 ---
 title: "BPActuators: Lightweight and Low-Cost Soft Actuators by Balloons and Plastics"
-excerpt: "A novel design of low-cost soft bending actuators <br/><img src='/images/projectImages/bpactuators.png'>"
+excerpt: "A novel mechanism of low-cost soft bending actuators by balloons and plastics <br/><img src='/images/projectImages/bpactuators.png'>"
 collection: portfolio
 ---
 
