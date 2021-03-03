@@ -58,6 +58,7 @@ Publications
   * **Q. Qi** and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation](https://ieeexplore.ieee.org/document/9044791)." *IEEE Robot. Autom. Lett.*, vol. 5, no. 3, pp. 4102-4109, Mar. 2020.
   * **Q. Qi**, S. Hirai and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology](https://ieeexplore.ieee.org/document/8638951)." *IEEE Robot. Autom. Lett.*, vol. 4, no. 2, pp. 1908-1915, Feb. 2019.
 * Conferences
+  **Q. Qi**, S. Yoshida, G. Kakihana, T. Torii, V. Ho and H. Xie, "[BPActuators: Lightweight and Low-Cost Soft Actuators by Balloons and Plastics](http://arxiv.org/abs/2103.01409)."*IEEE International Conference on Soft Robotics (RoboSoft 2021)*, Online.
   * **Q. Qi** and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation](https://ieeexplore.ieee.org/document/9044791)." *IEEE International Conference on Soft Robotics (RoboSoft 2020)*, Online. (**Best Paper Finalist**)
   * **Q. Qi**, S. Hirai and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology](https://ieeexplore.ieee.org/document/8638951)." *IEEE International Conference on Robotics and Automation (ICRA 2019)*, May 20-24, Montreal, Canada.
   * **Q. Qi** and V. Ho, "[Variable Afferent Network Morphology (VANmorph): An Implementation on Sensorized Soft Body](http://iros2018.softhaptics.website/)." *IEEE International Conference on Intelligent Robots and Systems (IROS 2018)*, Oct 1-5, Madrid, Spain.
