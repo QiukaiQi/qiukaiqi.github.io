@@ -70,7 +70,7 @@ Publications
 
 Skills
 ======
-* General operations in clean room
+* Clean room skills: Spinning coating, Baking, Electron beam lithography, Processing, and Electron beam deposition
 * Analysis and control: Python, MATLAB, C/C++, Arduino
 * Machine learning, deep learning and image processing: Pytorch, Scikit-learn, Tensorflow, Opencv
 * Modelling and simulation: Abaqus, COMSOL, ANASYS, Autodesk Inventor, Adams, Adobe Illustrator, Photoshop and Premiere
