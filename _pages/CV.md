@@ -26,7 +26,7 @@ Funding
   * Topic: Development of active tactile sensors with wrinkle morphology and the application to soft robots
   * Duration: Apr 2020 - Present
 
-* JAIST Houga Research Grant 2020 (Ongoing)
+* JAIST Houga Research Grant 2020 (Finished)
   * Amount: 900,000 JPY
   * Position: PI
   * Topic: Morphological investigation of a soft robotic fingertip for enhanced tactile perception
@@ -34,10 +34,15 @@ Funding
 
 Work experience
 ======
+* Postdoc & Doctoral Research Fellow (JSPS PD)
+  * Topic: TBD
+  * Supervisors: Prof. Koichi Suzumori
+  * Duration: Apr 2021 - Present
+
 * Doctoral Research Fellow (JSPS)
   * Topic: Morphological computation in tactile sensing and perception
   * Supervisors: Prof. Van Anh Ho and Dr. Shogo Okada
-  * Duration: Apr 2020 - Present
+  * Duration: Apr 2020 - Mar 2021
 
 * Doctoral Research Fellow (JAIST) & Research Associate (Soft Haptics Lab.)
   * Topic: Morphological computation in tactile sensing and perception
