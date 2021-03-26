@@ -16,7 +16,7 @@ My research sits at the interface between biology and engineering. I take inspir
 
 **2021-Apl-01** I am officially joining Suzumori-Endo Lab in Tokyo Institute of Technology as a JSPS postdoc researcher working on Soft Robotics.
 
-**2021-Mar-24** I received my PhD degree in information science, and successfully graduate from Japan Advanced Institute of Science and Technology with the Outstanding Performance Award.
+**2021-Mar-24** I received my PhD degree in information science, and successfully graduate from Japan Advanced Institute of Science and Technology with the **Outstanding Performance Award**.
 
 **2021-Mar-01** We have a paper titled as "BPActuators: Lightweight and low-cost soft actuators by balloons and plastics" accepted by IEEE RoboSoft 2021.
 
