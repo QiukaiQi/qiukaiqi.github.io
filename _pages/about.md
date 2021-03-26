@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Soft Haptics Laboratory](http://www.jaist.ac.jp/ms/labs/vanho/index-e.html), and I work with [Prof. Van Anh Ho](https://fp.jaist.ac.jp/public/Default2.aspx?id=669&l=1). Currently, I undertake two research grants, one by the programme of [Grants-in-Aid](https://www.jsps.go.jp/english/e-grants/index.html) from JSPS (1,700,000 JPY) and the other by the programme of Houga Research Grant from JAIST (900,000 JPY), serving as **PI** (Principle Investigator). Look at my [CV](https://qiukaiqi.github.io/cv/) for more details.
+I am a JSPS postdoc at the [Suzumori-Endo Laboratory](http://http://www-robot.mes.titech.ac.jp/home.html), and I work with [Prof. Koichi Suzumori](https://fp.jaist.ac.jp/public/Default2.aspx?id=669&l=1). Currently, I undertake one research grant by [Grants-in-Aid](https://www.jsps.go.jp/english/e-grants/index.html) from JSPS (1,700,000 JPY), serving as the **PI** (Principle Investigator). Look at my [CV](https://qiukaiqi.github.io/cv/) for more details.
 
 My research sits at the interface between biology and engineering. I take inspirations from *Biology* and develop *Soft Robots* augmented with life-like intelligence and functionality such as active sensing, purposive morphing and autonomous grasping by exploring smart materials, structures and mechanisms. Check out some of my [Projects](https://qiukaiqi.github.io/portfolio/) and go through my [Publications](https://qiukaiqi.github.io/publications/) for a glimpse of my research.
 
 **News**
+
+**2021-Apl-01** I am officially joining Suzumori-Endo Lab in Tokyo Institute of Technology as a JSPS postdoc researcher working on Soft Robotics.
+
+**2021-Mar-24** I received my PhD degree in information science, and successfully graduate from Japan Advanced Institute of Science and Technology with the Outstanding Performance Award.
 
 **2021-Mar-01** We have a paper titled as "BPActuators: Lightweight and low-cost soft actuators by balloons and plastics" accepted by IEEE RoboSoft 2021.
 
