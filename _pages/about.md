@@ -14,6 +14,8 @@ My research sits at the interface between biology and engineering. I take inspir
 
 **News**
 
+**2021-May-14** Our work on BPActuators is reported on a popular local newspaper specialized in Technology and Business "日刊工業新聞".
+
 **2021-Apl-02** We have a paper titled as "xBalloon: Animated Objects with Balloon Plastic Actuator" accepted by ACM 12th Augmented Human International Conference 2021.
 
 **2021-Apl-01** I am officially joining Suzumori-Endo Lab in Tokyo Institute of Technology as a **JSPS PD** postdoc researcher working on Soft Robotics.
