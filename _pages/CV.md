@@ -65,7 +65,7 @@ Publications
 * Conferences
 
   * H. Xie, T. Torii, A. Chiba, and **Q. Qi** , "[xBalloon: Animated Objects with Balloon Plastic Actuator](https://www.augmented-human.com/)."*ACM 12th Augmented Human International Conference (AH 2021)*, Online.
-  * **Q. Qi**, S. Yoshida, G. Kakihana, T. Torii, V. Ho and H. Xie, "[BPActuators: Lightweight and Low-Cost Soft Actuators by Balloons and Plastics](http://arxiv.org/abs/2103.01409)."*IEEE International Conference on Soft Robotics (RoboSoft 2021)*, Online. (Reported on local newspaper "日刊工業新聞" on 14-05-2021)
+  * **Q. Qi**, S. Yoshida, G. Kakihana, T. Torii, V. Ho and H. Xie, "[BPActuators: Lightweight and Low-Cost Soft Actuators by Balloons and Plastics](http://arxiv.org/abs/2103.01409)."*IEEE International Conference on Soft Robotics (RoboSoft 2021)*, Online. (**Reported on local newspaper "日刊工業新聞" on 14-May-2021**)
   * **Q. Qi** and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation](https://ieeexplore.ieee.org/document/9044791)." *IEEE International Conference on Soft Robotics (RoboSoft 2020)*, Online. (**Best Paper Finalist**)
   * **Q. Qi**, S. Hirai and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology](https://ieeexplore.ieee.org/document/8638951)." *IEEE International Conference on Robotics and Automation (ICRA 2019)*, May 20-24, Montreal, Canada.
   * **Q. Qi** and V. Ho, "[Variable Afferent Network Morphology (VANmorph): An Implementation on Sensorized Soft Body](http://iros2018.softhaptics.website/)." *IEEE International Conference on Intelligent Robots and Systems (IROS 2018)*, Oct 1-5, Madrid, Spain.
