@@ -20,6 +20,12 @@ Education
 
 Funding
 ======
+* JAIST Research Core for Cohabitative-AI×Design (Ongoing)
+  * Amount: 250,000 JPY
+  * Position: Co-PI
+  * Topic: Development of Low-Cost Soft Actuators
+  * Duration: Apr 2021 - Present
+
 * JSPS Grants-in-Aid (No. 20J15087) (Ongoing)
   * Amount: 1,700,000 JPY
   * Position: PI
@@ -95,6 +101,7 @@ Reviews
 ======
 * Journals
   * IEEE Robotics and Automation Letters (RAL)
+  * IEEE Transaction on Human Machine Systems (THMS)
   * IEEE Transaction on Haptics (ToH)
   * IPO Bioinspiration & Biomimetics (BIBM)
   * Frontiers in Robotics and AI
