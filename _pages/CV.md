@@ -47,12 +47,12 @@ Work experience
 
 * Doctoral Research Fellow (JSPS)
   * Topic: Morphological computation in tactile sensing and perception
-  * Supervisors: Prof. Van Anh Ho and Dr. Shogo Okada
+  * Supervisors: Prof. Van Anh Ho and Prof. Shogo Okada
   * Duration: Apr 2020 - Mar 2021
 
 * Doctoral Research Fellow (JAIST) & Research Associate (Soft Haptics Lab.)
   * Topic: Morphological computation in tactile sensing and perception
-  * Supervisors: Prof. Van Anh Ho and Dr. Shogo Okada
+  * Supervisors: Prof. Van Anh Ho and Prof. Shogo Okada
   * Duration: Apr 2018 - Mar 2020
 
 * Control Engineer / Project Manager (Abu Dhabi Branch, Commissioning and Operation Company of CPP)
