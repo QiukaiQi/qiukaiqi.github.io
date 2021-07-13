@@ -104,6 +104,7 @@ Reviews
   * IEEE Transaction on Human Machine Systems (THMS)
   * IEEE Transaction on Haptics (ToH)
   * IPO Bioinspiration & Biomimetics (BIBM)
+  * IPO Smart Materials & Structures (SMS)
   * Frontiers in Robotics and AI
   * Advanced Robotics
 
