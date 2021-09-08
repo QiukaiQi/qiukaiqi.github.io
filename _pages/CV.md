@@ -18,9 +18,9 @@ Education
 
 Visiting
 ======
-* Visiting Scholar, Soft Robotics Laboratory, Ritsumeikan University (Japan) 2021
-* Visiting PhD Student, SoftLab, Bristol Robotics Laboratory, University of Bristol (UK) 2020
-* Visiting PhD Student, Delft Haptics Laboratory, Delft University of Technology (Netherlands) 2019
+* Visiting Scholar, Soft Robotics Lab. (Prof. Shinichi Hirai), Ritsumeikan University (Japan) 2021
+* Visiting PhD Student, SoftLab, Bristol Robotics Lab. (Prof. Helmut Hauser), University of Bristol (UK) 2020
+* Visiting PhD Student, Delft Haptics Lab. (Prof. Michael Wiertlewski), Delft University of Technology (Netherlands) 2019
 
 Funding
 ======
