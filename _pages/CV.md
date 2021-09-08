@@ -16,7 +16,7 @@ Education
 * Master of Science in Robotics, Haptic Mechatronics and Medical Robotics Laboratory, King's College London (UK) 2017
 * Bachelor of Engineering in Material Deforming and Control Engineering, Yanshan University (China) 2011
 
-Academic visiting
+Visiting
 ======
 * Visiting Scholar, Soft Robotics Laboratory, Ritsumeikan University (Japan) 2021
 * Visiting PhD Student, SoftLab, Bristol Robotics Laboratory, University of Bristol (UK) 2020
