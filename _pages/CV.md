@@ -104,6 +104,7 @@ Supervisions
 Reviews
 ======
 * Journals
+  * Soft Robotics
   * IEEE Robotics and Automation Letters (RAL)
   * IEEE Transaction on Human Machine Systems (THMS)
   * IEEE Transaction on Haptics (ToH)
