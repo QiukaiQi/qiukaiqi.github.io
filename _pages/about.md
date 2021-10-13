@@ -16,9 +16,9 @@ My research sits at the interface between biology and engineering. I take inspir
 
 **News**
 
-**2021-Oct-12** We have a paper titled as "A Sea-Anemone-Inspired, Multifunctional, Bistable Gripper" accepted by **Soft Robotics**.
+**2021-Oct-12** We have a paper titled as "A Sea-Anemone-Inspired, Multifunctional, Bistable Gripper" accepted by "**Soft Robotics**".
 
-**2021-May-01** I officially join the SoftLab Group at Bristol Robotics Laboratory as a Research Associate working on Edible Robotics.
+**2021-May-01** I officially join the SoftLab Group at Bristol Robotics Laboratory as a Research Associate working on "**Edible Robotics**".
 
 **2021-May-14** Our work on BPActuators is reported on a popular local newspaper specialized in Technology and Business "**日刊工業新聞**".
 
