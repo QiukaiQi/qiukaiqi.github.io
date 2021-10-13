@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate at the SoftLab Group at Bristol Robotics Laboratory, and I work with [Prof. Jonathan Rossiter](https://www.bristol.ac.uk/people/person/Jonathan-Rossiter-9fcc55a3-fc9a-43a3-97a5-3aceca87cf4f/). Prior to this position, I was a JSPS PD postdoc researcher at the [Suzumori-Endo Laboratory](http://www-robot.mes.titech.ac.jp/home.html), working with [Prof. Koichi Suzumori](https://scholar.google.co.jp/citations?user=tSmkV74AAAAJ&hl=en). 
+I am a Research Associate at the [SoftLab, Bristol Robotics Laboratory](https://www.bristolroboticslab.com/soft-robotics), and I work with [Prof. Jonathan Rossiter](https://www.bristol.ac.uk/people/person/Jonathan-Rossiter-9fcc55a3-fc9a-43a3-97a5-3aceca87cf4f/). Prior to this position, I was a JSPS PD postdoc researcher at the [Suzumori-Endo Laboratory](http://www-robot.mes.titech.ac.jp/home.html), working with [Prof. Koichi Suzumori](https://scholar.google.co.jp/citations?user=tSmkV74AAAAJ&hl=en). 
 
 Currently, I have a collaborative research grant by [JAIST Research Core for Cohabitative-AI×Design](https://www.jaist.ac.jp/english/research/core-center/caid.html), serving as the **Co-PI** (Co-Principle Investigator). Before this, I undertook a research grant by [Grants-in-Aid](https://www.jsps.go.jp/english/e-grants/index.html) from JSPS (1,700,000 JPY), serving as the **PI**. Look at my [CV](https://qiukaiqi.github.io/cv/) for more details.
 
