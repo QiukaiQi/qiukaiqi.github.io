@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Associate at the [SoftLab, Bristol Robotics Laboratory](https://www.bristolroboticslab.com/soft-robotics) in University of Bristol, and I work with [Prof. Jonathan Rossiter](https://www.bristol.ac.uk/people/person/Jonathan-Rossiter-9fcc55a3-fc9a-43a3-97a5-3aceca87cf4f/). Prior to this position, I was a JSPS PD postdoc researcher at the [Suzumori-Endo Laboratory](http://www-robot.mes.titech.ac.jp/home.html) in Tokyo Institute of Technology, working with [Prof. Koichi Suzumori](https://scholar.google.co.jp/citations?user=tSmkV74AAAAJ&hl=en). 
 
-My research sits at the interface between biology and engineering. I take inspirations from *Biology* and develop *Soft Robots* augmented with life-like intelligence and functionality such as efficient actuation, active sensing, purposive morphing and autonomous grasping by exploring smart materials (e.g., functional polymers and composites), structures (e.g., multi-stable) and mechanisms. I am also interested in machine learning technics and its application in soft robotics. Check out some of my [Projects](https://qiukaiqi.github.io/portfolio/) and go through my [Publications](https://qiukaiqi.github.io/publications/) for a glimpse of my research.
+My research sits at the interface between biology and engineering. I take inspirations from **Biology** and develop **Soft Robots** augmented with **life-like intelligence and functionality** such as **efficient actuation**, **active sensing**, **purposive morphing** and **autonomous grasping** by exploring smart materials (e.g., **functional polymers and composites**), structures (e.g., **multi-stable**) and mechanisms. I am also interested in **machine learning** technics and its application in soft robotics. Check out some of my [Projects](https://qiukaiqi.github.io/portfolio/) and go through my [Publications](https://qiukaiqi.github.io/publications/) for a glimpse of my research.
 
 **News**
 
@@ -18,7 +18,7 @@ My research sits at the interface between biology and engineering. I take inspir
 
 **2022-Jun-17** We finished the 2nd consortium meeting for the RoboFood project organized by the Laboratory of Food Process Engineering (led by Prof. Remko Boom) at WUR, Netherland.
 
-**2022-Apl-20** I have finished intensive trainings on general material characterization equipment in Bristol Composite Lab and Nanolab. These include **tensile tester (Shimadzu) with video gauge and environment chamber, rheometer (Anton Paar m302), STA (Netszch), DSC (Netszch Phoenix F1 204), SEM (Hitachi TM3030Plus tabletop Microscope), FTIR (Perkin Elmer Spectrum 100)**. Great trainers! Thank you all!
+**2022-Apl-20** I have finished intensive trainings on general material characterization equipment in Bristol Composite Lab and Nanolab. These include **tensile tester** (Shimadzu) with **video gauge** and **environment chamber**, **rheometer** (Anton Paar m302), **STA** (Netszch), **DSC** (Netszch Phoenix F1 204), **SEM** (Hitachi TM3030Plus tabletop Microscope), **FTIR** (Perkin Elmer Spectrum 100)**. Great trainers! Thank you all!
 
 **2021-Nov-05** We finished the kick-off meeting for the RoboFood project organized by the Laboratory of Intelligent Systems (led by Prof. Dario Floreano) at EPFL, Switzerland.
 
