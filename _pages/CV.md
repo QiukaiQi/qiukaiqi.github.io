@@ -74,6 +74,7 @@ Work experience
 Publications
 ======
 * Journals
+  * **Q. Qi**, C. Xiang, V. Ho and J. Rossiter, "[A Sea-Anemone-Inspired, Multifunctional, Bistable Gripper](https://www.researchgate.net/profile/Qiukai-Qi-2/publication/356940522_A_Sea-Anemone-Inspired_Multifunctional_Bistable_Gripper/links/627e510ab1ad9f66c8baf50c/A-Sea-Anemone-Inspired-Multifunctional-Bistable-Gripper.pdf).'' *Soft Robotics*, Oct. 2021.
   * **Q. Qi** and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation](https://ieeexplore.ieee.org/document/9044791)." *IEEE Robot. Autom. Lett.*, vol. 5, no. 3, pp. 4102-4109, Mar. 2020.
   * **Q. Qi**, S. Hirai and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology](https://ieeexplore.ieee.org/document/8638951)." *IEEE Robot. Autom. Lett.*, vol. 4, no. 2, pp. 1908-1915, Feb. 2019.
 * Conferences
