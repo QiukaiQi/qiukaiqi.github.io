@@ -12,44 +12,49 @@ redirect_from:
 
 Education
 ======
-* PhD Student in Robotics, Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (Japan) 2021
+* PhD in Information Science (Robotics), Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (Japan) 2021
 * Master of Science in Robotics, Haptic Mechatronics and Medical Robotics Laboratory, King's College London (UK) 2017
 * Bachelor of Engineering in Material Deforming and Control Engineering, Yanshan University (China) 2011
 
 Visiting
 ======
 * Visiting Scholar, Soft Robotics Lab. (Prof. Shinichi Hirai), Ritsumeikan University (Japan) 2021
-* Visiting PhD Student, SoftLab, Bristol Robotics Lab. (Prof. Helmut Hauser), University of Bristol (UK) 2020
+% * Visiting PhD Student, SoftLab, Bristol Robotics Lab. (Prof. Helmut Hauser), University of Bristol (UK) 2020
 * Visiting PhD Student, Delft Haptics Lab. (Prof. Michael Wiertlewski), Delft University of Technology (Netherlands) 2019
 
 Funding
 ======
-* JAIST Research Core for Cohabitative-AI×Design (Ongoing)
+* JAIST Research Core for Cohabitative-AI×Design (Finished)
   * Amount: 250,000 JPY
   * Position: Co-PI
   * Topic: Development of Low-Cost Soft Actuators
-  * Duration: Apr 2021 - Present
+  * Duration: Apr 2021 - Mar 2022
 
-* JSPS Grants-in-Aid (No. 20J15087) (Ongoing)
+* JSPS Grants-in-Aid (No. 20J15087) (Finished)
   * Amount: 1,700,000 JPY
   * Position: PI
   * Topic: Development of active tactile sensors with wrinkle morphology and the application to soft robots
-  * Duration: Apr 2020 - Present
+  * Duration: Apr 2020 - Sep 2021
 
 * JAIST Houga Research Grant 2020 (Finished)
   * Amount: 900,000 JPY
   * Position: PI
   * Topic: Morphological investigation of a soft robotic fingertip for enhanced tactile perception
-  * Duration: Jul 2020 - Present
+  * Duration: Jul 2020 - Mar 2021
 
 Work experience
 ======
-* Postdoc & Doctoral Research Fellow (JSPS PD)
-  * Topic: TBD
-  * Supervisors: Prof. Koichi Suzumori
-  * Duration: Apr 2021 - Present
+* Postdoc & Research Associate
+  * Topic: Edible soft robotics & Robotic materials
+  * Supervisors: Prof. Jonathan Rossiter
+  * Duration: Oct 2021 - Present
 
-* Doctoral Research Fellow (JSPS)
+* Postdoc & Doctoral Research Fellow (JSPS PD)
+  * Topic: Soft robotic microbial devices
+  * Supervisors: Prof. Koichi Suzumori
+  * Duration: Apr 2021 - Sep 2021
+
+* Doctoral Research Fellow (JSPS DC2)
   * Topic: Morphological computation in tactile sensing and perception
   * Supervisors: Prof. Van Anh Ho and Prof. Shogo Okada
   * Duration: Apr 2020 - Mar 2021
@@ -111,6 +116,7 @@ Reviews
   * IEEE Transaction on Haptics (ToH)
   * IPO Bioinspiration & Biomimetics (BIBM)
   * IPO Smart Materials & Structures (SMS)
+  * IPO Machine Learning: Science and Technology
   * Frontiers in Robotics and AI
   * Advanced Robotics
 
