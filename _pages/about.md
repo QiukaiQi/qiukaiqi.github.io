@@ -14,7 +14,7 @@ My research sits at the interface between biology and engineering. I take inspir
 
 **News**
 
-**2022-Jun-30** We have a paper titled as "Self-morphing soft parallel-and-coplanar electroadhesive grippers based on laser-scribed graphene oxide electrodes" accepted by **IROS 2022**, Tokyo, Japan.
+**2022-Jun-30** We have a paper titled as "Self-morphing soft parallel-and-coplanar electroadhesive grippers based on laser-scribed graphene oxide electrodes" accepted by **IROS** 2022, Tokyo, Japan.
 
 **2022-Jun-17** We finished the 2nd consortium meeting for the RoboFood project organized by the Laboratory of Food Process Engineering (led by Prof. Remko Boom) at WUR, Netherland.
 
