@@ -14,6 +14,12 @@ My research sits at the interface between biology and engineering. I take inspir
 
 **News**
 
+**2022-Feb-10** We have a paper titled as "Biodegradable Humidity Actuators for Sustainable Soft Robotics using Deliquescent Hydrogels" accepted by **RoboSoft2023**, Singapore.
+
+**2022-Feb-07** We will organize a workshop on "Functional Adaptiveness in Soft Sensors and Sensing Technology" at **RoboSoft2023**, Singapore, to discuss the current progress and challenges with world leading researcher and scientists.
+
+**2023-Jan-30** We received the Pump Priming grant from Faculty of Engineering Mathematics, University of Bristol to support our investigation on "Transferring Technology Enabling Fully Biodegradable Transistors".
+
 **2022-Jun-30** We have a paper titled as "Self-morphing soft parallel-and-coplanar electroadhesive grippers based on laser-scribed graphene oxide electrodes" accepted by **IROS2022**, Tokyo, Japan.
 
 **2022-Jun-17** We finished the 2nd consortium meeting for the RoboFood project organized by the Laboratory of Food Process Engineering (led by Prof. Remko Boom) at WUR, Netherland.
