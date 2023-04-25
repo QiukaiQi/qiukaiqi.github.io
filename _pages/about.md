@@ -14,9 +14,9 @@ My research sits at the interface between biology and engineering. I take inspir
 
 **News**
 
-**2022-Feb-10** We have a paper titled as "Biodegradable Humidity Actuators for Sustainable Soft Robotics using Deliquescent Hydrogels" accepted by **RoboSoft2023**, Singapore.
+**2023-Feb-10** We have a paper titled as "Biodegradable Humidity Actuators for Sustainable Soft Robotics using Deliquescent Hydrogels" accepted by **RoboSoft2023**, Singapore.
 
-**2022-Feb-07** We will organize a workshop on "Functional Adaptiveness in Soft Sensors and Sensing Technology" at **RoboSoft2023**, Singapore, to discuss the current progress and challenges with world leading researcher and scientists.
+**2023-Feb-07** We will organize a workshop on "Functional Adaptiveness in Soft Sensors and Sensing Technology" at **RoboSoft2023**, Singapore, to discuss the current progress and challenges with world leading researcher and scientists.
 
 **2023-Jan-30** We received the Pump Priming grant from Faculty of Engineering Mathematics, University of Bristol to support our investigation on "Transferring Technology Enabling Fully Biodegradable Transistors".
 
