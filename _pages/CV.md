@@ -78,7 +78,8 @@ Publications
   * **Q. Qi** and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation](https://ieeexplore.ieee.org/document/9044791)." *IEEE Robot. Autom. Lett.*, vol. 5, no. 3, pp. 4102-4109, Mar. 2020.
   * **Q. Qi**, S. Hirai and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology](https://ieeexplore.ieee.org/document/8638951)." *IEEE Robot. Autom. Lett.*, vol. 4, no. 2, pp. 1908-1915, Feb. 2019.
 * Conferences
-
+  * A. Keller, **Q. Qi**, Y. Kumaresan, A. Conn and J. Rossiter, "[Biodegradable Humidity Actuators for Sustainable Soft Robotics using Deliquescent Hydrogels](https://ieeexplore.ieee.org/document/9044791)." *IEEE International Conference on Soft Robotics (RoboSoft 2023)*, Singapore.
+  * J. Guo, D. Kuhnel, **Q. Qi**, C. Xiang, V. Ho, C. Faul and J. Rossiter, "[Self-morphing Soft Parallel-and-coplanar Electroadhesive Grippers Based on Laser-scribed Graphene Oxide Electrodes](https://ieeexplore.ieee.org/document/9044791)." *IEEE International Conference on Intelligent Robots and Systems (IROS2022)*, Kyoto, Japan.
   * H. Xie, T. Torii, A. Chiba, and **Q. Qi** , "[xBalloon: Animated Objects with Balloon Plastic Actuator](https://www.augmented-human.com/)."*ACM 12th Augmented Human International Conference (AH 2021)*, Online.
   * **Q. Qi**, S. Yoshida, G. Kakihana, T. Torii, V. Ho and H. Xie, "[BPActuators: Lightweight and Low-Cost Soft Actuators by Balloons and Plastics](http://arxiv.org/abs/2103.01409)."*IEEE International Conference on Soft Robotics (RoboSoft 2021)*, Online. (**Reported on local newspaper "日刊工業新聞" on 14-May-2021**)
   * **Q. Qi** and V. Ho, "[Wrinkled Soft Sensor with Variable Afferent Morphology: Case of Bending Actuation](https://ieeexplore.ieee.org/document/9044791)." *IEEE International Conference on Soft Robotics (RoboSoft 2020)*, Online. (**Best Paper Finalist**)
@@ -100,23 +101,35 @@ Skills
 
 Supervisions
 ======
-* Project: Firmware Development of a Data Acquisition Device for USB Connection and Data Transmission
-  * Zhengsheng Li, Master Intern. from National Yunlin University of Science and Technology
+* Project: Development of an Edible Soft Gripper for the Removal of Ingested Button Batteries
+  * Rahaf Hejazi, Master Thesis. from University of Bristol
+
+* Project: Optimization of an Edible Battery
+  * Yifei Liu, Master Thesis. from University of Bristol
+
+* Project: Geometrical Analysis of Skinflow Sensor
+  * Chandra Mohanan Sarath Menon, Master Thesis. from University of Bristol
 
 * Project: Shape Classification using Deep Learning with a Wrinkled Tactile Sensor
   * Weiting Li, Master Intern. from National Yunlin University of Science and Technology
+
+* Project: Firmware Development of a Data Acquisition Device for USB Connection and Data Transmission
+  * Zhengsheng Li, Master Intern. from National Yunlin University of Science and Technology
 
 Reviews
 ======
 * Journals
   * Advanced Materials (AM)
   * Soft Robotics (SoRo)
+  * IEEE Transaction on Industrial Electronics (TIE)
   * IEEE Robotics and Automation Letters (RAL)
+  * IEEE Sensors Journal
   * IEEE Transaction on Human Machine Systems (THMS)
   * IEEE Transaction on Haptics (ToH)
   * IPO Bioinspiration & Biomimetics (BIBM)
   * IPO Smart Materials & Structures (SMS)
   * IPO Machine Learning: Science and Technology
+  * SPJ Cyborg and Bionic Systems
   * Frontiers in Robotics and AI
   * Advanced Robotics
 
